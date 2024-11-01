@@ -1,0 +1,18 @@
+{
+    "dev": {
+        "account": "012345678912",
+        "default-region": "us-west-2"
+    },
+    "qa": {
+        "account": "012345678912",
+        "default-region": "us-west-2"
+    },
+    "staging": {
+        "account": "012345678912",
+        "default-region": "eu-central-1"
+    },
+    "prod": {
+        "account": "012345678912",
+        "default-region": "us-west-2"
+    }
+}

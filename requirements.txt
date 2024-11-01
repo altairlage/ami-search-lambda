@@ -1,0 +1,2 @@
+--extra-index-url https://artifactory.infra.int.daas-watchguard.com/artifactory/api/pypi/pypi/simple
+daasdeployhelpers
